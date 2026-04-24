@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا معلم الحب في صمت الليالي
+> نار الشوق تكوي وتملأ خيالي
+> أين الطريق إلى قلبك الآن
+> روحي تنادي وعيناك آمالي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
