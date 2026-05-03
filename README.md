@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ya M3allim El Hob – Oh Master of Love |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-m3allim-el-hob-oh-master-of-love/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
