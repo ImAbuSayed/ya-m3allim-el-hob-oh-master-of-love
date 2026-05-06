@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-m3allim-el-hob-oh-master-of-love/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Ya M3allim El Hob – Oh Master of Love](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
